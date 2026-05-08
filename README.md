@@ -78,11 +78,7 @@ I'm a **C++ & Java Developer** who genuinely enjoys the craft of writing clean, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamElhessy&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F75C7E&text_color=ffffff&count_private=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamElhessy&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="170" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamElhessy&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F75C7E&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
