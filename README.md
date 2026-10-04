@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=C%2B%2B+%26+Java+Developer+%F0%9F%9A%80;Software+Diagram+Expert+%F0%9F%A7%A9;Use+Case+%7C+DFD+%7C+Sequence+Master+%F0%9F%93%90;Git+%26+GitHub+Power+User+%F0%9F%90%99;Clean+Code+%2B+Clean+Docs+%3D+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=C%2B%2B+%26+Java+Developer+%F0%9F%9A%80;Web+Projects+in+HTML+%2F+CSS+%2F+JS+%F0%9F%8C%90;Software+Diagram+Expert+%F0%9F%A7%A9;Use+Case+%7C+DFD+%7C+Sequence+Master+%F0%9F%93%90;Git+%26+GitHub+Power+User+%F0%9F%90%99;Clean+Code+%2B+Clean+Docs+%3D+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ## 👋 Hey, I'm Adam!
 
-I'm a **C++ & Java Developer** who genuinely enjoys the craft of writing clean, efficient, and well-structured code. I care deeply about:
+I'm a **C++ & Java Developer** and computer engineering student at **Ain Shams University** who also builds for the web. I genuinely enjoy the craft of writing clean, efficient, and well-structured code. I care deeply about:
 
 - 🏗️ **System Design** — thinking in components, not just lines
 - 📐 **Software Diagrams** — Use Case, DFD, Sequence & more
@@ -41,7 +41,7 @@ I'm a **C++ & Java Developer** who genuinely enjoys the craft of writing clean, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,git,github,vscode,visualstudio&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,bootstrap,git,github,vercel,vscode,visualstudio&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -50,12 +50,35 @@ I'm a **C++ & Java Developer** who genuinely enjoys the craft of writing clean, 
   &nbsp;
   <img src="https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-Web%20Apps-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Responsive-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Git-Master-F05032?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-Daily%20Driver-181717?style=for-the-badge&logo=github&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Word-Pro-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://portfolio-eight-green-36.vercel.app">
+    <img src="https://img.shields.io/badge/See%20them%20all%20in%20my%20Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+| 🎯 Project | 📝 What it is | 🛠️ Built with | 🔗 Links |
+|:---|:---|:---|:---|
+| 🏨 **Grand Azure Hotel Reservation System** <br> *Team project of five* | Full guest journey in Java: room search, booking, invoices, check-in, payment and check-out. I built the Admin role, the Receptionist workflow and the amenity revenue calculations. | `Java 17` `OOP` `UML` `Git` | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/OmarFarouk-Code/Hotel_Reservation_System) |
+| 💊 **Smart Pharmacy Management System** <br> *Team project, JAMBOY Team* | Console app with manager and pharmacist logins, a 50-medicine inventory, low-stock alerts, billing with automatic discounts and file saving. | `C++` `File I/O` | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/adamelhessy/Pharmacy-Management-System) |
+| 💱 **Currency Converter** | Converts between 160+ currencies with live rates, country flags and a swap button. | `HTML` `CSS` `JavaScript` `Bootstrap` | [![Live](https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://exchanger-beige.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/adamelhessy/currency-converter) |
+| 🌍 **Translator** | Browser app to translate text between languages in one click. | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://translator-beige-iota.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/adamelhessy/translator) |
+| 🛍️ **DOKAN Shop** | Multi-page online shop front end with product pages, deployed on Vercel. | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://dokan-shop-bay.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/adamelhessy/DOKAN-SHOP) |
+| 🌐 **This Portfolio** | Hand-written responsive portfolio with scroll animations and a working contact form. | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-eight-green-36.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/adamelhessy/Portfolio) |
 
 ---
 
@@ -117,7 +140,7 @@ I'm a **C++ & Java Developer** who genuinely enjoys the craft of writing clean, 
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://AdamElhessy.github.io" target="_blank">
+  <a href="https://portfolio-eight-green-36.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
@@ -128,7 +151,7 @@ I'm a **C++ & Java Developer** who genuinely enjoys the craft of writing clean, 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 <p align="center">
-  [🔗 Explore my Interactive Portfolio](https://AdamElhessy.github.io)
+  <a href="https://portfolio-eight-green-36.vercel.app">🔗 Explore my Interactive Portfolio</a>
 </p>
 
 <p align="center">
